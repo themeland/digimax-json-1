@@ -1,0 +1,204 @@
+{
+    "themeOneServiceSection": {
+        "heading": "We provide the best digital services",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "serviceData": [
+            {
+              "id": 1,
+              "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+              "title": "Data Analytics",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 2,
+              "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+              "title": "Marketing Stretagy",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 3,
+              "iconClass": "flaticon-web color-3 icon-bg-3",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 4,
+              "iconClass": "flaticon-smartphone color-4 icon-bg-4",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 5,
+              "iconClass": "flaticon-email color-5 icon-bg-5",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 6,
+              "iconClass": "flaticon-affiliate color-6 icon-bg-6",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            }
+        ],
+        "serviceData_1": [
+            {
+              "id": 1,
+              "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+              "title": "Data Analytics",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 2,
+              "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+              "title": "Marketing Stretagy",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 3,
+              "iconClass": "flaticon-web color-3 icon-bg-3",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+              "btnText": "Learn More"
+            }
+        ],
+        "serviceData_2": [
+            {
+              "id": 1,
+              "image": "/img/case_studies_1.jpg",
+              "title": "Data Analytics",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 2,
+              "iconClass": "/img/case_studies_2.jpg",
+              "title": "Marketing Stretagy",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 3,
+              "iconClass": "/img/case_studies_3.jpg",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 4,
+              "iconClass": "/img/case_studies_4.jpg",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 5,
+              "iconClass": "/img/case_studies_5.jpg",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 6,
+              "iconClass": "/img/case_studies_6.jpg",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            }
+        ],
+        "serviceData_3": [
+            {
+              "id": 1,
+              "image": "/img/case_studies_1.jpg",
+              "title": "Data Analytics",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 2,
+              "iconClass": "/img/case_studies_2.jpg",
+              "title": "Marketing Stretagy",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            },
+            {
+              "id": 3,
+              "iconClass": "/img/case_studies_3.jpg",
+              "title": "Promote Local Sales",
+              "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+              "btnText": "Learn More"
+            }
+        ]
+    },
+    "themeOnePricingSection": {
+        "heading": "Our Price Plans",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "btnText": "Not sure what to choose?",
+        "btnText_1": "Contact Us",
+        "pricingData": [
+            {
+              "id": 1,
+              "title": "Basic",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, nemo.",
+              "price_before": "$",
+              "price": "49",
+              "price_after": "/mo",
+              "li_1": "5GB Linux Web Space",
+              "li_2": "5 MySQL Databases",
+              "li_3": "24/7 Tech Support",
+              "li_4": "Daily Backups",
+              "listClass_1": "py-2",
+              "listClass_2": "py-2 text-muted",
+              "btnText": "Get Started"
+            },
+            {
+              "id": 2,
+              "title": "Pro",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, nemo.",
+              "price_before": "$",
+              "price": "129",
+              "price_after": "/mo",
+              "li_1": "10GB Linux Web Space",
+              "li_2": "50 MySQL Databases",
+              "li_3": "Unlimited Email",
+              "li_4": "Daily Backups",
+              "listClass_1": "py-2",
+              "listClass_2": "py-2 text-muted",
+              "btnText": "Get Started"
+            }
+        ]
+    },
+    "themeOneContactSection": {
+        "heading": "Let's connect!",
+        "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "btnText": "Send Message",
+        "contactData": [
+            {
+              "id": 1,
+              "listClass": "contact-info color-1 bg-hover active hover-bottom text-center p-5 m-3",
+              "iconClass": "fas fa-mobile-alt fa-3x",
+              "linkClass": "d-block my-2",
+              "title": "+89 (0) 2354 5470091",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+              "id": 2,
+              "listClass": "contact-info color-3 bg-hover active hover-bottom text-center p-5 m-3",
+              "iconClass": "fas fa-envelope-open-text fa-3x",
+              "linkClass": "d-block my-2",
+              "title": "mail@company.com",
+              "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}
