@@ -204,7 +204,7 @@
               "listClass": "contact-info color-3 bg-hover active hover-bottom text-center p-5 m-3",
               "iconClass": "fas fa-envelope-open-text fa-3x",
               "linkClass": "d-block my-2",
-              "title": "mail@company.com",
+              "title": "mail@ company.com",
               "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
             }
         ]
