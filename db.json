@@ -14,35 +14,35 @@
             {
               "id": 2,
               "iconClass": "flaticon-monitoring color-2 icon-bg-2",
-              "title": "Marketing Stretagy",
+              "title": "Website Growth",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             },
             {
               "id": 3,
               "iconClass": "flaticon-web color-3 icon-bg-3",
-              "title": "Promote Local Sales",
+              "title": "Seo Ranking",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             },
             {
               "id": 4,
               "iconClass": "flaticon-smartphone color-4 icon-bg-4",
-              "title": "Promote Local Sales",
+              "title": "App Development",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             },
             {
               "id": 5,
               "iconClass": "flaticon-email color-5 icon-bg-5",
-              "title": "Promote Local Sales",
+              "title": "Email Marketing",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             },
             {
               "id": 6,
               "iconClass": "flaticon-affiliate color-6 icon-bg-6",
-              "title": "Promote Local Sales",
+              "title": "Affiliate Marketing",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             }
