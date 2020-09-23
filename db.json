@@ -58,14 +58,14 @@
             {
               "id": 2,
               "iconClass": "flaticon-monitoring color-2 icon-bg-2",
-              "title": "Marketing Stretagy",
+              "title": "Website Growth",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             },
             {
               "id": 3,
               "iconClass": "flaticon-web color-3 icon-bg-3",
-              "title": "Promote Local Sales",
+              "title": "Seo Ranking",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
               "btnText": "Learn More"
             }
@@ -80,35 +80,35 @@
             },
             {
               "id": 2,
-              "iconClass": "/img/case_studies_2.jpg",
+              "image": "/img/case_studies_2.jpg",
               "title": "Marketing Stretagy",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
             },
             {
               "id": 3,
-              "iconClass": "/img/case_studies_3.jpg",
+              "image": "/img/case_studies_3.jpg",
               "title": "Promote Local Sales",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
             },
             {
               "id": 4,
-              "iconClass": "/img/case_studies_4.jpg",
+              "image": "/img/case_studies_4.jpg",
               "title": "Promote Local Sales",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
             },
             {
               "id": 5,
-              "iconClass": "/img/case_studies_5.jpg",
+              "image": "/img/case_studies_5.jpg",
               "title": "Promote Local Sales",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
             },
             {
               "id": 6,
-              "iconClass": "/img/case_studies_6.jpg",
+              "image": "/img/case_studies_6.jpg",
               "title": "Promote Local Sales",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
@@ -124,14 +124,14 @@
             },
             {
               "id": 2,
-              "iconClass": "/img/case_studies_2.jpg",
+              "image": "/img/case_studies_2.jpg",
               "title": "Marketing Stretagy",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
             },
             {
               "id": 3,
-              "iconClass": "/img/case_studies_3.jpg",
+              "image": "/img/case_studies_3.jpg",
               "title": "Promote Local Sales",
               "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
               "btnText": "Learn More"
