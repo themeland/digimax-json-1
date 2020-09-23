@@ -213,7 +213,7 @@
             {
               "id": 2,
               "listClass": "contact-info color-3 bg-hover active hover-bottom text-center p-5 m-3",
-              "listClass_2": "contact-info color-3 bg-hover active hover-bottom dark-shadow text-center p-5 m-3",
+              "listClass_1": "contact-info color-3 bg-hover active hover-bottom dark-shadow text-center p-5 m-3",
               "iconClass": "fas fa-envelope-open-text fa-3x",
               "linkClass": "d-block my-2",
               "title": "mail@company.com",
